@@ -19,3 +19,12 @@ result:
 result:
 
 ![0x02_Header](http://7u2m4t.com1.z0.glb.clouddn.com/header.png)
+
+
+#### 0x03 Day
+
+[Sketch Tutorial_01 Colorful switch](https://medium.com/google-design/sketch-tutorial_01-b76271a095e3)
+
+result:
+
+![0x03_Colorful_Switch](http://7u2m4t.com1.z0.glb.clouddn.com/colorful_switch@2x.png)
