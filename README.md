@@ -28,3 +28,11 @@ result:
 result:
 
 ![0x03_Colorful_Switch](http://7u2m4t.com1.z0.glb.clouddn.com/colorful_switch@2x.png)
+
+#### 0x04 Day
+
+[Experimenting With Colors And Concepts](http://blog.mengto.com/experimenting-colors-concepts/)
+
+result:
+
+![0x04_Color_Experiment](http://7u2m4t.com1.z0.glb.clouddn.com/color_experiment.png)
