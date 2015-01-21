@@ -3,6 +3,16 @@
 Learning to use Sketch by practice.
 
 
+#### 0x05 Day
+
+[Twitter lite](http://sgabriel.dunked.com/twitter-lite)
+[Twitter Lite Part.2](https://dribbble.com/shots/1448949-Twitter-Lite-Part2/attachments/214121) - by Sebastien Gabriel
+
+result:
+
+![Twitter lite](http://7u2m4t.com1.z0.glb.clouddn.com/bottom.png)
+
+
 #### 0x04 Day
 
 [Experimenting With Colors And Concepts](http://blog.mengto.com/experimenting-colors-concepts/)
