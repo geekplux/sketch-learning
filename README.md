@@ -3,6 +3,25 @@
 Learning to use Sketch by practice.
 
 
+### 0x06 Day
+
+##### Implement
+
+- [Google Trend](https://www.google.com/trends/2014/)
+
+##### Note
+
+- Download popularity typeface from [Google Fonts](http://www.google.com/fonts)
+- Read [Thinking with Type](http://www.thinkingwithtype.com/contents/letter/)
+- Same font can be apply in different size UI.
+
+##### Result
+
+![Google Trend](http://7u2m4t.com1.z0.glb.clouddn.com/google_trend_desktop.png)
+
+-----
+
+
 ### 0x05 Day
 
 ##### Implement
