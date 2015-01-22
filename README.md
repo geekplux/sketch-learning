@@ -7,7 +7,7 @@ Learning to use Sketch by practice.
 
 ##### Implement
 
-- [Google Trend](https://www.google.com/trends/2014/)
+- Imitate [Google Trend](https://www.google.com/trends/2014/)
 
 ##### Note
 
@@ -16,6 +16,8 @@ Learning to use Sketch by practice.
 - Same font can be apply in different size UI.
 
 ##### Result
+
+Following is the imitation UI for desktop HD and you can find the mobile in `0x06_Google_Trend` folder.
 
 ![Google Trend](http://7u2m4t.com1.z0.glb.clouddn.com/google_trend_desktop.png)
 
@@ -26,7 +28,7 @@ Learning to use Sketch by practice.
 
 ##### Implement
 
-- [Twitter lite](http://sgabriel.dunked.com/twitter-lite)
+- Imitate [Twitter lite](http://sgabriel.dunked.com/twitter-lite)
 - [Twitter Lite Part.2](https://dribbble.com/shots/1448949-Twitter-Lite-Part2/attachments/214121) - by Sebastien Gabriel
 
 ##### Note
