@@ -3,6 +3,23 @@
 Learning to use Sketch by practice.
 
 
+### 0x07 Day
+
+#### Implement
+
+- [How to create a flat styled icon in Sketch 3](https://medium.com/@sokratus/how-to-create-a-flat-styled-icon-in-sketch-3-27c4bd09989)
+
+#### Note
+
+- How to customize and combine basic shapes into illustrations  *more:* [Harnessing Vector Awesomeness in Sketch](https://medium.com/sketch-app/harnessing-vector-awesomeness-in-sketch-3c9621408138)
+
+#### Result
+
+![Flat Icon](http://7u2m4t.com1.z0.glb.clouddn.com/flat_icon.png)
+
+-----
+
+
 ### 0x06 Day
 
 ##### Implement
