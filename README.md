@@ -3,6 +3,25 @@
 Learning to use Sketch by practice.
 
 
+### 0x08 Day
+
+#### Implement
+
+- Read [Mastering the Bézier Curve in Sketch](https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb)
+- Draw Twitter Icon with Bezier Curve and Imitate the [Horizontal & Vertical Bezier](http://theagsc.com/community/tutorials/so-whats-the-big-deal-with-horizontal-vertical-bezier-handles-anyway)
+
+#### Note
+
+- Hold `Shift` when dragging out your handles to snap them horizontally & vertically.
+
+#### Result
+
+![Twitter Icon](http://7u2m4t.com1.z0.glb.clouddn.com/twitter_icon.png)
+![Bezier Path](http://7u2m4t.com1.z0.glb.clouddn.com/bezier_path.png)
+
+---------
+
+
 ### 0x07 Day
 
 #### Implement
