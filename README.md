@@ -22,8 +22,8 @@ Learning to use Sketch by practice.
 
 #### Result
 
-![Twitter Icon](http://7u2m4t.com1.z0.glb.clouddn.com/twitter_icon.png)
-![Bezier Path](http://7u2m4t.com1.z0.glb.clouddn.com/bezier_path.png)
+![Twitter Icon](./0x08_Bezier_Curve/twitter_icon.png)
+![Bezier Path](./0x08_Bezier_Curve/bezier_path.png)
 
 ---------
 
@@ -40,7 +40,7 @@ Learning to use Sketch by practice.
 
 #### Result
 
-![Flat Icon](http://7u2m4t.com1.z0.glb.clouddn.com/flat_icon.png)
+![Flat Icon](./0x07_Flat_Icon/flat_icon.png)
 
 -----
 
@@ -61,7 +61,8 @@ Learning to use Sketch by practice.
 
 Following is the imitation UI for desktop HD and you can find the mobile in `0x06_Google_Trend` folder.
 
-![Google Trend](http://7u2m4t.com1.z0.glb.clouddn.com/google_trend_desktop.png)
+![Google Trend Desktop](./0x06_Google_Trend/google_trend_desktop.png)
+![Google Trend Mobile](./0x06_Google_Trend/google_trend_mobile.png)
 
 -----
 
@@ -81,7 +82,7 @@ Following is the imitation UI for desktop HD and you can find the mobile in `0x0
 
 ##### Result
 
-![Twitter lite](http://7u2m4t.com1.z0.glb.clouddn.com/bottom.png)
+![Twitter lite](./0x05_Twitter_Lite/twitter_lite.png)
 
 -----
 
@@ -100,7 +101,7 @@ Following is the imitation UI for desktop HD and you can find the mobile in `0x0
 
 ##### Result
 
-![0x04_Color_Experiment](http://7u2m4t.com1.z0.glb.clouddn.com/color_experiment.png)
+![0x04_Color_Experiment](./0x04_Color_Experiment/color_experiment.png)
 
 -----
 
@@ -118,7 +119,7 @@ Following is the imitation UI for desktop HD and you can find the mobile in `0x0
 
 ##### Result
 
-![0x03_Colorful_Switch](http://7u2m4t.com1.z0.glb.clouddn.com/colorful_switch@2x.png)
+![0x03_Colorful_Switch](./0x03_Colorful_Switch/colorful_switch.png)
 
 -----
 
@@ -135,7 +136,7 @@ Following is the imitation UI for desktop HD and you can find the mobile in `0x0
 
 ##### Result
 
-![0x02_Header](http://7u2m4t.com1.z0.glb.clouddn.com/02header.png)
+![0x02_Header](./0x02_Header/header.png)
 
 -----
 
@@ -154,4 +155,4 @@ Following is the imitation UI for desktop HD and you can find the mobile in `0x0
 
 ##### Result
 
-![0x01_Login](http://7u2m4t.com1.z0.glb.clouddn.com/ui-login.png)
+![0x01_Login](./0x01_Login/ui-login.png)
